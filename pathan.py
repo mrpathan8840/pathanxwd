@@ -91,8 +91,6 @@ def modelsInstaller():
 import base64
 import json
 import time
-from rich import print as printer
-from rich.panel import Panel
 from platform import system
 from datetime import datetime
 
