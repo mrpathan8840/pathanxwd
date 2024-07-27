@@ -91,7 +91,6 @@ def modelsInstaller():
 import base64
 import json
 import time
-import sys,os,re,binascii,time,json,random,threading,pprint,smtplib,telnetlib,os.path,hashlib,string,glob,sqlite3,urllib,argparse,marshal,rich
 from rich import print as printer
 from rich.panel import Panel
 from platform import system
