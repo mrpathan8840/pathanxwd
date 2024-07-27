@@ -105,7 +105,7 @@ requests.packages.urllib3.disable_warnings()
 
 def cls():
 	if system() == 'Linux':
-		system('clear')
+		os.system('clear')
 	else:
 		if system() == 'Windows':
 			os.system('cls')
